@@ -1,6 +1,7 @@
 # Quotes Generator 
 - In this Quote Generator Projects developed by using HTML,CSS and JS with fetching API (Application Programming Interface).
-- API is a type of software interface that allows two or more computer programs to communicate with each other. 
+- API is a type of software interface that allows two or more computer programs to communicate with each other.
+- It is a completely responsive webpage. It has a flexible layout that works well on multiple devices, including desktops, tablets, and mobile phones. 
 
 ## Quotes Generator Preview
 

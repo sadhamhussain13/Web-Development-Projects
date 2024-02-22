@@ -1,0 +1,52 @@
+:root{
+    --background:#3C3430;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.background{
+    background-color: var(--background);
+    display: grid;
+    place-items: center;
+    height: 80vh;
+}
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    max-width: 730px;
+}
+.card{
+    position: relative;
+    left: 0px;
+    width: 520px;
+    max-width: auto;
+    border-radius: 16px;
+    height: 360px;
+    overflow: hidden;
+    background-color: var(--background);
+    transition: 0.4s ease-in-out;
+    box-shadow: 0.5px 12px rgba(1, 0, 2, 0.5);
+    flex: 0.25;
+}
+.card img{
+    height: 360px;
+}
+.card:hover{
+    flex: 2;
+    font-weight: bold;
+    cursor:pointer;
+    border-radius: 8px;
+}
+.gallery img{
+    max-width: 150vh;
+}
+h2{
+    background-color: var(--background);
+    text-align: center;
+    padding-top: 130px;
+    font-weight: bold;
+    color: burlywood;
+}

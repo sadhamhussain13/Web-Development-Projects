@@ -12,7 +12,11 @@ This repository contains a collection of sample web development projects created
    - Description: A gallery showcasing images with smooth transition effects between them.
    - Technologies: HTML, CSS
 
-3. **Signup WebPage**
+3. **Parallax Webpage**
+   - Description: A parallax webpage features dynamic scrolling effects that create an illusion of depth and movement, enhancing user engagement and visual storytelling.
+   - Technologies: HTML, CSS, JavaScript
+
+4. **Signup WebPage**
    - Description: A simple signup page with form validation.
    - Technologies: HTML, CSS
 
